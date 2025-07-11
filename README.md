@@ -8,4 +8,4 @@ size of 32, and frozen layers. The trained model was converted into TensorFlow L
     
 **Keywords**: Convolutional Neural Network, EfficientNetV2-S, food allergy, MobileNetV2, TensorFlow Lite   
    
-### Link : [https://drive.google.com/file/d/1GMH-ioKitBwh8BnHnW9zFZ_ken1SR9K2/view?usp=sharing](tar.gz) 
+### Link : [tar.gz](https://drive.google.com/file/d/1GMH-ioKitBwh8BnHnW9zFZ_ken1SR9K2/view?usp=sharing) 
